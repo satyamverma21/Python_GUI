@@ -3,7 +3,6 @@ from tkinter import messagebox
 import base64
 import os
 
-
 def decrypt():
     passwd = code.get()
 
